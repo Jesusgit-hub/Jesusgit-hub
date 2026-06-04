@@ -27,7 +27,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| [Proyecto Star Wars]([https://github.com/Agomfue/Trabajo_StarWars/tree/Jesus]) | App web con gestión de pilotos, naves y misiones del universo Star Wars. CRUD completo y estadísticas en tiempo real. | HTML - CSS - JS <br> 🔗 [Alianza Rebelde](TU_LINK_DEMO) |
+| [Proyecto Star Wars][https://github.com/Agomfue/Trabajo_StarWars/tree/Jesus] | App web con gestión de pilotos, naves y misiones del universo Star Wars. CRUD completo y estadísticas en tiempo real. | HTML - CSS - JS <br> 🔗 [Alianza Rebelde](TU_LINK_DEMO) |
 | [Web de Deportes]([https://github.com/manuga07-byte/proyecto-web/tree/manuel]) | Web multipage de los deportes más conocidos a nivel mundial, centrandonos en las reglas, titulos y mejores deportista de toda la historia de cada deporte. | HTML - CSS - JS <br> 🔗 [Festival Naciones](TU_LINK_DEMO) |
 | [Portfolio](TU_LINK_DE_GITHUB) | Portfolio personal con proyectos web, habilidades técnicas y contacto. Desarrollado con HTML, CSS y Bootstrap 5. | HTML - CSS - Bootstrap <br> 🔗 [Portfolio](TU_LINK_DEMO) |
 
