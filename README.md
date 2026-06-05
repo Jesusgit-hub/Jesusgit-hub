@@ -53,6 +53,25 @@
     </td>
   </tr>
 </table>
+
+<!-- Fila 1: Estadísticas Generales y Lenguajes -->
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=9" height="195" alt="Estadísticas de GitHub" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=transparent&hide_border=true&v=9" height="195" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+  <!-- Fila 2: Tarjeta de Rachas ajustada al 100% del alto -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesusgit-hub&theme=transparent&hide_border=true&v=9" height="220" alt="Mis rachas de código" />
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 📬 Contacto
