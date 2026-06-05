@@ -58,9 +58,9 @@
 
 ## 📬 Contacto
 
-<a href="TU_LINKEDIN_AQUÍ" target="_blank">
+<a href="https://www.linkedin.com/in/jesús-gómez-barrera-3a1661414/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:tu-correo@gmail.com">
+<a href="(https://mail.google.com/mail/?view=cm&fs=1&to=jesusgomezbarrera.empresa@gmail.com)">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
