@@ -29,7 +29,7 @@
 | :--- | :--- | :--- |
 | [Proyecto Star Wars](https://github.com/Agomfue/Trabajo_StarWars/tree/Jesus) |Es una web de Star Wars, en ella incluye una gestión de pilotos, naves y misiones. Además de estadísticas en tiempo real. | HTML - CSS - JS <br> 🔗 [Alianza Rebelde](TU_LINK_DEMO) |
 | [Web de Deportes](https://github.com/Jesusgit-hub/Web-Deportes) |   Web de Deportes centrandonos en equipos, trofeos y mejores jugadores a nivel historicos de cada deporte. | HTML - CSS - JS <br> 🔗 [Web Deportes](https://web-deportes.vercel.app) |
-| [Portfolio](TU_LINK_DE_GITHUB) | Portfolio personal con proyectos web, habilidades técnicas y contacto. Desarrollado con HTML, CSS y Bootstrap 5. | HTML - CSS - Bootstrap <br> 🔗 [Portfolio](TU_LINK_DEMO) |
+| [Portfolio](https://github.com/Jesusgit-hub/Portfolio/tree/main) | Portfolio personal con proyectos web, habilidades técnicas y contacto. Desarrollado con HTML, CSS y Bootstrap 5. | HTML - CSS - Bootstrap <br> 🔗 [Portfolio](https://portfolio-dusky-iota-54.vercel.app) |
 
 ---
 
