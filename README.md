@@ -37,7 +37,10 @@
 
 | | |
 | :---: | :---: |
-| <img src="https://github-readme-stats-eta-flame-94.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=1" height="195" alt="Estadísticas de GitHub" /> | <img src="https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=transparent&hide_border=true&v=1" height="195" alt="Lenguajes más usados" /> |
+| <img src="https://github-readme-stats-eta-flame-94.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&v=3" height="195" alt="Estadísticas de GitHub" /> | <img src="https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=transparent&hide_border=true&v=3" height="195" alt="Lenguajes más usados" /> |
+
+### 📅 Desglose de Contribuciones
+<img src="https://img.shields.io/badge/Contribuciones_2025-PON_AQUÍ_TU_NÚMERO-blue?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Contribuciones_2026-En_Progreso_🚀-green?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
