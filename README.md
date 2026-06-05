@@ -35,11 +35,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=dark" alt="Estadísticas de Jesusgit-hub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=dark" alt="Lenguajes más usados" width="42%" />
-</p>
-
+| | |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=dark" height="195" alt="Estadísticas de Jesusgit-hub" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=dark" height="195" alt="Lenguajes más usados" /> |
 ---
 
 ## 📬 Contacto
