@@ -32,25 +32,26 @@
 | [Portfolio](https://github.com/Jesusgit-hub/Portfolio/tree/main) | Portfolio personal con proyectos web, habilidades técnicas y contacto. Desarrollado con HTML, CSS y Bootstrap 5. | HTML - CSS - Bootstrap <br> 🔗 [Portfolio](https://portfolio-dusky-iota-54.vercel.app) |
 
 ---
-Esto se actualiza? ## 📊 Estadísticas de GitHub
+
+## 📊 Estadísticas de GitHub
 
 <table width="100%">
-  <!-- Fila 1: Estadísticas Generales y Lenguajes -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=7" height="195" alt="Estadísticas de GitHub" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=transparent&hide_border=true&v=7" height="195" alt="Lenguajes más usados" />
-    </td>
-  </tr>
-  <!-- Fila 2: Tarjeta de Rachas integrada abajo -->
-  <tr>
-    <td colspan="2" align="center">
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesusgit-hub&theme=transparent&hide_border=true&v=7" height="180" alt="Mis rachas de código" />
-    </td>
-  </tr>
+  <!-- Fila 1: Estadísticas Generales y Lenguajes -->
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=8" height="195" alt="Estadísticas de GitHub" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=transparent&hide_border=true&v=8" height="195" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+  <!-- Fila 2: Tarjeta de Rachas integrada abajo -->
+  <tr>
+    <td colspan="2" align="center">
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesusgit-hub&theme=transparent&hide_border=true&v=8" height="180" alt="Mis rachas de código" />
+    </td>
+  </tr>
 </table>
 
 ---
