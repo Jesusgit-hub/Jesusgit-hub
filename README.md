@@ -42,7 +42,7 @@
       <img src="https://github-readme-stats-eta-flame-94.vercel.app/api?username=Jesusgit-hub&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=9" height="195" alt="Estadísticas de GitHub" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=transparent&hide_border=true&v=8" height="195" alt="Lenguajes más usados" />
+      <img src="https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=Jesusgit-hub&layout=compact&theme=transparent&hide_border=true&v=9" height="195" alt="Lenguajes más usados" />
     </td>
   </tr>
   <!-- Fila 2: Tarjeta de Rachas integrada abajo -->
